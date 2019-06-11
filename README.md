@@ -5,7 +5,7 @@
 Ingxoxo *(isiXhosa for conversation, discussion)* provides a platform for student discussions around first year physical chemistry in any South African language. The initiative is funded by [DOT4D](http://www.dot4d.uct.ac.za/dot4d-grantees). 
 
 ## The discussion platform https://ingxoxo.uct.ac.za
-The [platform](https://ingxoxo.uct.ac.za) is available for CEM1 students, interested CEM2 and academic staff at UCT. Invitations and signup will open in July 2019.
+The [platform](https://ingxoxo.uct.ac.za) is available to first year chemistry students, interested second year students and academic staff at UCT. Invitations and signup will open in July 2019.
 
 [Ingxoxo is a web-based forum powered by Discourse](https://ingxoxo.uct.ac.za) where students can share their ideas, understandings and opinions of physical chemical concepts.  Video and audio explanations of some of the more difficult concepts encountered in first year chemistry will be available. The content creation will be primarily driven by discussions with first year chemistry students and the Ingxoxo community. There will be an emphasis on understanding how students are explaining concepts to their peers. These new ideas and explanations of chemical concepts that are relevant to the South African student will be compiled into an openly licensed, online, mixed-media e-book, co-authored by the students themselves to allow for a fully inclusive look into first year physical chemistry. 
 
