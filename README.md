@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Ingxoxo
+![logo](logo.png)
 
-You can use the [editor on GitHub](https://github.com/ingxoxo/ingxoxo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## What is Ingxoxo
+Ingxoxo *(isiXhosa for conversation, discussion)* provides a platform for student discussions around first year physical chemistry in any South African language. The initiative is funded by [DOT4D](http://www.dot4d.uct.ac.za/dot4d-grantees). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The discussion platform https://ingxoxo.uct.ac.za
+The [platform](https://ingxoxo.uct.ac.za) is available for CEM1 students, interested CEM2 and academic staff at UCT. Invitations and signup will open in July 2019.
 
-### Markdown
+[Ingxoxo is a web-based forum powered by Discourse](https://ingxoxo.uct.ac.za) where students can share their ideas, understandings and opinions of physical chemical concepts.  Video and audio explanations of some of the more difficult concepts encountered in first year chemistry will be available. The content creation will be primarily driven by discussions with first year chemistry students and the Ingxoxo community. There will be an emphasis on understanding how students are explaining concepts to their peers. These new ideas and explanations of chemical concepts that are relevant to the South African student will be compiled into an openly licensed, online, mixed-media e-book, co-authored by the students themselves to allow for a fully inclusive look into first year physical chemistry. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Who we are 
+Cesarina Edmonds-Smith and Christopher Barnett from the Department of Chemistry in the Faculty of Science at UCT.
+We are early career academics interested in improving first year physical chemistry education. 
 
-```markdown
-Syntax highlighted code block
+## Social media
+Please use `#ingxoxo` `#chemistry`
 
-# Header 1
-## Header 2
-### Header 3
+## Links
+- [Ingxoxo](https://ingxoxo.uct.ac.za), the discussion platform for first year physical chemistry
+- [DOT4D](http://www.dot4d.uct.ac.za/dot4d-grantees), our funders.
+- [Zivahub](https://zivahub.uct.ac.za/), the open data store we plan to use.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Licensing and Privacy
+- We plan to publish data under the [creative commons license](https://choosealicense.com/licenses/cc-by-4.0/).
+- Any data from surveys is completely anonymised. 
+- All users of the ingxoxo.uct.ac.za platform are asked to agree to the following privacy and data usage notices before signing up:
+```
+Privacy Notice and Terms of Service
+* I understand that this forum will use my name and e-mail address in order to send me emails. I have read and understand the privacy policy as described here.
+Data usage for Ingxoxo textbook and publishing as open data.
+* I understand that my data will be made available as part of the Ingxoxo textbook. This data will be anonymised and freely available. My name will be included in the list of authors.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ingxoxo/ingxoxo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Planned Outputs
+- Discussion platform (active 2019)
+- Datasets (expected 2019/2020)
+- Textbook (expected end 2019/2020)
